@@ -1,0 +1,21 @@
+{
+  "author": "Christian Chandler",
+  "private":"true",
+  "description": "Final weekend lab",
+  "name": "nodeJS_Redis_SocketIO_multiPlayer_App",
+  "version": "0.0.1",
+  "main": "app.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/247webdev/Week10_Day5_NodeJS_Redis_SocketIO_multiPlayer_App-My-Work.git"
+  },
+  "dependencies":{
+    "socket.io":"0.9.16",
+    "express":"3.2.6"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/247webdev/Week10_Day5_NodeJS_Redis_SocketIO_multiPlayer_App-My-Work/issues"
+  },
+  "homepage": "https://github.com/247webdev/Week10_Day5_NodeJS_Redis_SocketIO_multiPlayer_App-My-Work"
+}
